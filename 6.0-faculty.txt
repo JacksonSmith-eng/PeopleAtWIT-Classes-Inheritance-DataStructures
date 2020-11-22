@@ -1,0 +1,30 @@
+Eddie Van Halen
+Professor
+Shredding
+1978
+10
+2
+Gerry Garcia
+Professor
+Jamming
+1967
+3
+17
+John Frusciante
+Professor
+Bending
+1989
+8
+16
+Tony Iommi
+Professor
+Riffing
+1970
+2
+13
+Angus Young
+Professor
+Performing
+1976
+4
+30
